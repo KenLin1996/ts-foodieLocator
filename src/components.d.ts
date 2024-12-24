@@ -9,7 +9,6 @@ declare module 'vue' {
   export interface GlobalComponents {
     AppFooter: typeof import('./components/AppFooter.vue')['default']
     BookATable: typeof import('./components/menuTabsWindow/BookATable.vue')['default']
-    HelloWorld: typeof import('./components/HelloWorld.vue')['default']
     Navbar: typeof import('./components/Navbar.vue')['default']
     OrderOnline: typeof import('./components/menuTabsWindow/OrderOnline.vue')['default']
     ProductCardA: typeof import('./components/productCard/ProductCardA.vue')['default']

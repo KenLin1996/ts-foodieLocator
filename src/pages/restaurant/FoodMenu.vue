@@ -116,7 +116,7 @@
     <div>
       <v-tabs
         v-model="tab"
-        align-tabs="left"
+        align-tabs="start"
         color="#d23f57"
         slider-color="#d23f57"
         class="mb-8"
