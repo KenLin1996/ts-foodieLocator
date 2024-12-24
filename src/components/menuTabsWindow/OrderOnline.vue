@@ -5,7 +5,7 @@
         v-model="orderTab"
         color="#000"
         direction="vertical"
-        align-tabs="left"
+        align-tabs="start"
         class="custom-tabs"
       >
         <v-tab
